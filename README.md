@@ -1,13 +1,4 @@
-### File Markdown & Preview
-File Markdown (.md) untuk di-copy ke GitHub:
-[file-tag: code-generated-file-0-1777786942322844881]
-
-File PDF (Preview tampilan):
-[file-tag: code-generated-file-1-1777786942322852450]
-
----
-
-### Isi README (Bisa Langsung Copy-Paste)
+### Isi README
 
 ```markdown
 # 📚 Repository Tugas Kuliah
